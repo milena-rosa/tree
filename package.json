@@ -1,0 +1,19 @@
+{
+  "name": "tree",
+  "version": "1.0.0",
+  "author": "Milena Boselli Rosa",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "publish": "npm publish"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.19",
+    "typescript": "^4.5.5"
+  }
+}
