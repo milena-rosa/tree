@@ -10,7 +10,8 @@
   ],
   "scripts": {
     "build": "tsc",
-    "publish": "npm publish"
+    "publish": "npm publish",
+    "test": "echo 'need to implement tests!'"
   },
   "devDependencies": {
     "@types/node": "^17.0.19",
