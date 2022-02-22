@@ -5,7 +5,5 @@ export function sayHello() {
 }
 
 export function sayGoodbye() {
-  console.log("====================================");
   console.log("bye");
-  console.log("====================================");
 }
