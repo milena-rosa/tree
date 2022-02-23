@@ -1,5 +1,5 @@
 {
-  "name": "tree",
+  "name": "@milena-rosa/tree",
   "version": "1.0.0",
   "author": "Milena Boselli Rosa",
   "license": "MIT",
@@ -16,5 +16,6 @@
   "devDependencies": {
     "@types/node": "^17.0.19",
     "typescript": "^4.5.5"
-  }
+  },
+  "repository": "git://github.com/milena-rosa/tree.git"
 }
