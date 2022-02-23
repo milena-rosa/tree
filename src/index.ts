@@ -1,3 +1,5 @@
-export { sayGoodbye, sayHello } from "./hello-world";
 export { TreeNode } from "./treeNode";
-export { ITreeNode } from "./ITreeNode";
+export type { ITreeNode } from "./ITreeNode";
+
+export { Tree } from "./tree";
+export type { ITree } from "./ITree";

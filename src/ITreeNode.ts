@@ -3,6 +3,6 @@ export interface ITreeNode<T> {
   value: T;
   parent?: ITreeNode<T>;
   children?: Array<ITreeNode<T>>;
-  // isLeaf?: boolean;
-  // hasChildren?: boolean;
+  isLeaf?: boolean;
+  hasChildren?: boolean;
 }
